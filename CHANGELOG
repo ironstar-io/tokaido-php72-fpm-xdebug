@@ -1,0 +1,10 @@
+## [2.0.0] - 2017-10-30
+- Conversion from Ubuntu 16.04 to Alpine Linux 3.6
+
+
+## [1.1.0] - 2017-05-01
+### Added
+- New PHP Modules :: php7.0-zip php7.0-bcmath php-guzzlehttp php7.0-curl
+
+### Changed
+- Moved start CMD to start.sh
